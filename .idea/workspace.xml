@@ -6,8 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="d7b8077a-fe27-4057-9e1a-77647b9d55f2" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/training/grosscalculator/GrossPayCalculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/training/grosscalculator/GrossPayCalculator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/training/grosscalculator/SalaryCalculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/training/grosscalculator/SalaryCalculator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/training/grosscalculator/QuotaChecker.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/training/grosscalculator/QuotaChecker.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -24,9 +23,9 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 0
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0
+}</component>
   <component name="ProjectId" id="2pB4xwe2ev1M6NiqmI5buQuBMNC" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -37,6 +36,9 @@
   "keyToString": {
     "Application.GrossPayCalculator.executor": "Run",
     "Application.Main.executor": "Run",
+    "Application.QuotaChecker.executor": "Run",
+    "Application.SalaryCalculator.executor": "Run",
+    "Application.TestResults.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
